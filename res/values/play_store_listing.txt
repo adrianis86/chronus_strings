@@ -1,4 +1,4 @@
-Welcome to Chronus, an elegant Home & Lock screen Clock, Weather, News feed and Calendar widget.
+Welcome to Chronus, an elegant Home & Lock screen Clock, Weather, News feed and Calendar widget - now with DashClock Extensions support!
 
 Functionally similar to its older brother the CyanogenMod cLock widget and brought to you by the same developers, this independently released, stand-alone widget takes back its original name - Chronus - and brings the same elegant look and feel, enhanced with many new features and improvements, to the broader Android community.
 
@@ -8,23 +8,25 @@ As a flexible "Information" widget, Chronus is highly optimized in terms of CPU 
 1) Lock screen widgets are only supported on Android 4.2+. This is a limitation of Android itself, not Chronus
 2) On some devices you may have to reboot your device after installing for the widget to show up in the widget picker
 3) Details on the Permissions we use are available at http://goo.gl/EbMLmm
-4) IF YOU USE THE XPOSED FRAMEWORK TO BYPASS THE ANDROID WIDGET API'S, THINGS WILL BREAK! 
+4) If you use the Xposed framework to bypass Android Widget API's, things will break! 
 
-<b>Features (Pro version, available via in-app purchase):</b>
+<b>Features (Pro version, available via in-app purchase):  - Video @ http://goo.gl/S4Ue1q </b>
   - Additional Widgets (Forecast, Calendar, Clock+ (Forecast))
   - Custom Tap actions for Clock, Weather and Calendar to launch apps or activities
   - Change Clock and Weather panel alignment (Centred, Left or Right)
   - Select Analog clock style (Standard or Classic)
   - Month view Calendar style
   - Calendar colors
+  - Set Widget backgrounds
   - Feedly News provider
   - Facebook News provider
   - Daydream screensaver
-  - with more features to be released every 3-4 weeks...
+  - Status bar Weather notifications
+  - Add DashClock Extensions in the Flex and 'Dash' widgets
 
 <b>Features (All versions):</b>
 The standard version is functionally equivalent to the CyanogenMod cLock widget with added support for older versions of Android.
-  - Fully functional Flex, Flex (Analog), Clock+ and Weather Widgets
+  - Fully functional Flex, Flex (Analog), Clock+, Clock+ (Dash) and Dash and Weather Widgets
   - Supports adding as a widget to the Home screen (Android 4.1+) or Lock screen (Android 4.2+)
   - Customize the Clock look and feel (visible components, font normal/bold)
   - Weather panel with Yahoo!, Accuweather, OpenWeatherMap and yr.no weather providers
@@ -35,9 +37,10 @@ The standard version is functionally equivalent to the CyanogenMod cLock widget 
   - Tapping event opens calendar at selected event
   - Taping calendar icon opens Calendar at today's date
   - Highlight upcoming calendar events with custom colors and font bolding
-  - Set Widget backgrounds
   - Change the font color of all text in all panels
   - Configure widget when adding or from the Chronus app in the app drawer
+  - Backup and restore widget settings
+  - Add any two (2) DashClock Extensions in the Flex and 'Dash' widgets
 
 <b>Credits:</b>
 While Danny Baumann and I wrote most of the widget, credit also goes to the many translators as well as other contributors such as Nicolai Ehemann, Matt Booth and Jorge Ruesga for the languages and features they have contributed.
