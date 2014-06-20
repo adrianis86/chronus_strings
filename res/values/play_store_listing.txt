@@ -41,6 +41,7 @@ The standard version is functionally equivalent to the CyanogenMod cLock widget 
   - Configure widget when adding or from the Chronus app in the app drawer
   - Backup and restore widget settings
   - Add any two (2) DashClock Extensions in the Flex and 'Dash' widgets
+  - Built-in Gmail, Missed Calls, Calendar and Text Messages extensions
 
 <b>Credits:</b>
 While Danny Baumann and I wrote most of the widget, credit also goes to the many translators as well as other contributors such as Nicolai Ehemann, Matt Booth and Jorge Ruesga for the languages and features they have contributed.
