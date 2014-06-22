@@ -10,7 +10,7 @@ Je optimalizovaný z hlediska využití procesoru a navržen tak, aby mohl nahra
 3) WidgetLocker není podporován
 4) Pokud použijete XPosedFramework pro úpravu API widgetů Androida, widget Chronus nemusí pracovat správně!!!
 
-<b>Vlastnosti (verze Pro, jenž je dostupný pomocí platby v aplikaci): - Video @ http://goo.gl/S4Ue1q</b>
+<b>Vlastnosti (verze Pro, jenž je dostupná pomocí platby v aplikaci): - Video @ http://goo.gl/S4Ue1q</b>
   - další samostatné widgety (Předpověd počasí, Kalendář, Počasí)
   - vlastní akce na hodiny, počasí nebo kalendář pro spuštění aplikace nebo aktivity
   - zarovnání panelu hodin nebo počasí (doprostřed, vlevo, vpravo)
