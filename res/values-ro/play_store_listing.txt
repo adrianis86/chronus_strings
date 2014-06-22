@@ -1,4 +1,4 @@
-Chronus este un widget elegant, ce include panouri cu ceas, meteo, flux de știri și calendar pentru ecranul pricipal și cel de blocare.
+Chronus este un widget elegant, ce include panouri cu ceas, meteo, flux de știri și calendar pentru ecranul pricipal și cel de blocare - acum cu suport pentru extensii DashClock!
 
 Având funcțional similar widget-ului CyanogenMod cLock și prezentat de același dezvoltator, acest widget separat și lansat independent își recapătă numele original - Chronus și permite tuturor utilizatorilor Android să se bucure de aceleași posibilități, de rând cu multe alte funcții noi și îmbunătățiri.
 
@@ -8,23 +8,25 @@ Fiind un widget "Informațional" flexibil, Chronus este extrem de optimizat la c
 1) Widget-ul ecranului de blocare este compatibil doar cu Android 4.2+. Aceasta este o limitare a SO Android, dar nu din partea Chronus
 2) Pentru unele dispozitive este necesară restartarea acestora după instalare, pentru ca widget-ul să apară în lista disponibilă
 3) Informația detaliată privind Permisiunile utilizate este disponibilă la adresa: http://goo.gl/EbMLmm
-4) DACĂ UTILIZAȚI XPOSED FRAMEWORK PENTRU DEPĂȘIREA API-URILOR WIDGET-URILOR ANDROID, CEVA NU VA MERGE! 
+4) Dacă utilizați Xposed Framework pentru depășirea API-urilor widget-urilor Android, ceva nu va mearge! 
 
-<b>Posibilitățile versiunii Pro (disponibile prin cumpărături in-app):</b>
+<b>Posibilitățile versiunii Pro (disponibile prin cumpărături in-app): - Video: http://goo.gl/S4Ue1q </b>
   - Widget-uri adiționale (Prognoză, Calendar, Ceas+ (Prognoză))
   - Acțiuni personalizate la apăsarea panourilor cu ceas, meteo și calendar pentru lansarea aplicațiilor sau activităților
   - Alinierea ceasului și panoului meteo (centru, stânga sau dreapta)
   - Selectare stil ceas analog (Standard sau Clasic)
   - Stil lunar de afișare pentru calendar
   - Culori pentru Calendar
+  - Setarea fundalului pentru widget-uri
   - Suport Feedly
   - Suport Facebook
   - Screensaver Daydream
-  - noi posibilități lansate la fiecare 3-4 săptămâni...
+  - Notificări meteo în bara de stare
+  - Adăugare extensii DashClock la widget-urile Flex și 'Dash'
 
 <b>Posibilități de bază:</b>
 Versiunea standard este echivalentă cu widget-ul CyanogenMod cLock din CM10.2 cu suport adițional pentru versiunile Android mai vechi.
-  - Widget-uri Flex, Flex (Analog), Ceas+ și Meteo complet funcționale
+  - Widget-uri Flex, Flex (Analog), Ceas+, Clock+ (Dash), Dash și Meteo complet funcționale
   - Aplicare pe ecranul principal (Android 4.1+) sau ecranul de blocare (Android 4.2+)
   - Configurare mod de afișare ceas (componente vizibile, font normal/îngroșat)
   - Panou meteo oferit de Yahoo, AccuWeather, OpenWeatherMap și yr.no
@@ -35,10 +37,12 @@ Versiunea standard este echivalentă cu widget-ul CyanogenMod cLock din CM10.2 c
   - Atingerea evenimentului deschide Calendarul la acel eveniment
   - Atingerea pictogramei calendarului deschide ziua curentă din Calendar
   - Evidențierea evenimentelor viitoare din calendar cu culori personalizate și font ingroșat
-  - Setarea fundalului pentru widget
   - Schimbarea culorii textelor în toate panourile
   - Configurare prin intermediul aplicației Chronus din meniul principal
-
+  - Backup și restabilire pentru setările widget-urilor
+  - Adăugare a oricăror două (2) extensii DashClock la widget-urile Flex și 'Dash'
+  - Extensii integrate pentru Gmail, Apeluri pierdute, Calendar și Mesaje Text
+  
 <b>Mulțumiri:</b>
 În timp ce am creat împreună cu Danny Baumann cea mai mare parte din Chronus, mulțumim comunității de traducători, precum și lui Nicolai Ehemann, Matt Booth și Jorge Ruesga pentru limbile și opțiunile la care au contribuit.\n
 Traducerea în limba română: Adrian Nistreanu.
