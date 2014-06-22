@@ -2,7 +2,7 @@ Bienvenido a Chronus, un elegante widget de reloj, tiempo, noticias y calendario
 
 Funcionalmente similar al widget cLock de CyanogenMod y del mismo desarrollador, es una aplicación independiente que vuelve a su nombre original, Chronus, y que trae el mismo elegante aspecto, mejorado con muchas nuevas características y mejoras para toda la comunidad Android.
 
-Siendo un widget de "Información" flexible, Chronus está altamente optimizado en términos de CPU y uso de datos con el potencial para sustituir varios widgets de información. Todos los widgets de Chronus utilizados en el mismo dispositivo utilizan los mismos servicios de acceso a la información y las actualizaciones de los mismos se procesan por lotes. Esto hace que el sistema utilice menos batería  sin dejar de ofrecer información valiosa para el usuario. Puedes elegir usar una o todas las características (aquellas que no que no se utilizan son deshabilitadas completamente, evitando el uso de CPU, datos y batería para dichas características).
+Siendo un widget de "Información", Chronus está optimizado en términos de CPU y uso de datos teniendo potencial para sustituir varios widgets. Esto hace que el sistema utilice menos batería sin dejar de ofrecer información valiosa para el usuario (aquellas caracteristicas no utilizadas son deshabilitadas completamente, ahorrando en el uso de CPU, datos y batería).
 
 <b>Por favor, tenga en cuenta:</b>
 1) Los widgets de pantalla de bloqueo solo están soportados por la versión de Android 4.2+. Esto es una limitación de Android, no de Chronus
@@ -17,7 +17,7 @@ Siendo un widget de "Información" flexible, Chronus está altamente optimizado 
   - Seleccionar el estilo del reloj analógico (Estándar o Clásico)
   - Calendario con estilo de vista Mensual
   - Colores en calendario
-  - Establecer el color del fondo del widget
+  - Establecer el fondo del widget
   - Proveedor de noticias Feedly
   - Proveedor de noticias Facebook
   - Salvapantallas Daydream
@@ -34,8 +34,8 @@ La versión estándar es funcionalmente equivalente al widget cLock de CyanogenM
   - Panel de lectura de noticias y soporte de noticias RSS integrado
   - Lector interno de lectura de noticias
   - Panel de calendario con una lista desplegable de los próximos eventos
-  - Pulsaciones sobre eventos abren directamente el evento en la aplicación Calendario
-  - Pulsaciones sobre el icono de calendario abre el día actual en la aplicación Calendario
+  - Pulsar sobre eventos abre directamente el evento en la aplicación Calendario
+  - Pulsar sobre el icono de calendario abre el día actual en la aplicación Calendario
   - Resaltar los próximos eventos del calendario con colores personalizados y fuentes en negrita
   - Cambiar el color de la fuente de todos los paneles
   - Configurar cada widget cuando se añade o desde la acceso directo a Chronus
@@ -44,4 +44,4 @@ La versión estándar es funcionalmente equivalente al widget cLock de CyanogenM
   - Extensiones de DashClock integradas en la app para Gmail, llamadas perdidas, calendario y mensajes de textos
 
 <b>Créditos:</b>
-Mientras que Danny Baumann y yo escribimos la mayoría del código de Chronus, parte del mismo debe de ir para los muchos traductores, así como a otros desarrolladores, como Nicolai Ehemann, Matt Booth and Jorge Ruesga, por las correcciones, nuevas características y traducciones que han aportado al código.
+Mientras que Danny Baumann y yo escribimos la mayoría del código de Chronus, existen partes escritas por traductores y desarrolladores, tales como Nicolai Ehemann, Matt Booth y Jorge Ruesga.
