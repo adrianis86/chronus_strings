@@ -26,7 +26,7 @@ Fiind un widget "Informațional" flexibil, Chronus este extrem de optimizat la c
 
 <b>Posibilități de bază:</b>
 Versiunea standard este echivalentă cu widget-ul CyanogenMod cLock din CM10.2 cu suport adițional pentru versiunile Android mai vechi.
-  - Widget-uri Flex, Flex (Analog), Ceas+, Clock+ (Dash), Dash și Meteo complet funcționale
+  - Widget-uri Flex, Flex (Analog), Ceas+, Clock+ (Dash), 'Dash' și Meteo complet funcționale
   - Aplicare pe ecranul principal (Android 4.1+) sau ecranul de blocare (Android 4.2+)
   - Configurare mod de afișare ceas (componente vizibile, font normal/îngroșat)
   - Panou meteo oferit de Yahoo, AccuWeather, OpenWeatherMap și yr.no
