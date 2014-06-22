@@ -1,4 +1,4 @@
-Bienvenido a Chronus, un elegante widget de reloj, tiempo, noticias y calendario para sus pantallas de inicio y bloqueo.
+Bienvenido a Chronus, un elegante widget de reloj, tiempo, noticias y calendario para sus pantallas de inicio y bloqueo - ahora con soporte para DashClock
 
 Funcionalmente similar al widget cLock de CyanogenMod y del mismo desarrollador, es una aplicación independiente que vuelve a su nombre original, Chronus, y que trae el mismo elegante aspecto, mejorado con muchas nuevas características y mejoras para toda la comunidad Android.
 
@@ -8,23 +8,25 @@ Siendo un widget de "Información" flexible, Chronus está altamente optimizado 
 1) Los widgets de pantalla de bloqueo solo están soportados por la versión de Android 4.2+. Esto es una limitación de Android, no de Chronus
 2) En algunos dispositivos debes de reiniciar tu dispositivo después de la instalación para que el widget se muestre en el selector de widgets
 3) Los detalles sobre los permisos utilizados por la aplicación están disponibles en http://goo.gl/EbMLmm
-4) ¡SI UTILIZAS XPOSED FRAMEWORK TO EVITAR LA API DE WIDGETS DE ANDROID, LA APLICACIÓN DEJARA DE FUNCIONAR CORRECTAMENTE! 
+4) ¡Si utilizas el framework Xposed para cambiar el modo en que se comporta el api de widgets de Android, la aplicación dejara de funcionar correctamente!
 
-<b>Características (versión Pro, disponible como compra integrada en la aplicación):</b>
+<b>Características (versión Pro, disponible como compra integrada en la aplicación): - Video @ http://goo.gl/S4Ue1q </b>
   - Widgets adicionales (Predicción de tiempo, Calendario, Tiempo)
   - Pulsaciones personalizadas para el Reloj, Tiempo y Calendario para lanzar aplicaciones y actividades
   - Alineación de los paneles del reloj y del tiempo (centrado, izquierda o derecha)
   - Seleccionar el estilo del reloj analógico (Estándar o Clásico)
   - Calendario con estilo de vista Mensual
   - Colores en calendario
+  - Establecer el color del fondo del widget
   - Proveedor de noticias Feedly
   - Proveedor de noticias Facebook
   - Salvapantallas Daydream
-  - y nuevas características cada 3-4 semanas...
+  - Notificaciones de tiempo en la barra de estado
+  - Soporte para extensiones de DashClock en los widgets Flex y Dash
 
 <b>Características (Todas las versiones):</b>
 La versión estándar es funcionalmente equivalente al widget cLock de CyanogenMod con el añadido de ser compatible con versiones anteriores de Android.
-  - Widgets completamente funcionales: Flex, Flex (Analog), Clock+ y Tiempo
+  - Widgets completamente funcionales: Flex, Flex (Analog), Clock+, Clock+ (Dash), Dash y Tiempo
   - Soporte para ser añadido como widget en la pantalla de inicio (Android 4.1+) o en la pantalla de bloqueo (Android 4.2+)
   - Aspecto customizable del reloj (paneles visibles, fuente normal/negrita)
   - Panel de tiempo con soporte para proveedores de tiempo Yahoo!, Accuweather, OpenWeatherMap y yr.no
@@ -35,9 +37,11 @@ La versión estándar es funcionalmente equivalente al widget cLock de CyanogenM
   - Pulsaciones sobre eventos abren directamente el evento en la aplicación Calendario
   - Pulsaciones sobre el icono de calendario abre el día actual en la aplicación Calendario
   - Resaltar los próximos eventos del calendario con colores personalizados y fuentes en negrita
-  - Establecer el color del fondo del widget
   - Cambiar el color de la fuente de todos los paneles
   - Configurar cada widget cuando se añade o desde la acceso directo a Chronus
+  - Copia de seguridad y restauración de configuraciones de widgets
+  - Agregar dos (2) extensiones cualesquiera de DashClock en los widgets Flex o Dash
+  - Extensiones de DashClock integradas en la app para Gmail, llamadas perdidas, calendario y mensajes de textos
 
 <b>Créditos:</b>
 Mientras que Danny Baumann y yo escribimos la mayoría del código de Chronus, parte del mismo debe de ir para los muchos traductores, así como a otros desarrolladores, como Nicolai Ehemann, Matt Booth and Jorge Ruesga, por las correcciones, nuevas características y traducciones que han aportado al código.
