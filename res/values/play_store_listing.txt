@@ -26,7 +26,7 @@ As a flexible "Information" widget, Chronus is highly optimized in terms of CPU 
 
 <b>Features (All versions):</b>
 The standard version is functionally equivalent to the CyanogenMod cLock widget with added support for older versions of Android.
-  - Fully functional Flex, Flex (Analog), Clock+, Clock+ (Dash) and Dash and Weather Widgets
+  - Fully functional Flex, Flex (Analog), Clock+, Clock+ (Dash), Dash and Weather Widgets
   - Supports adding as a widget to the Home screen (Android 4.1+) or Lock screen (Android 4.2+)
   - Customize the Clock look and feel (visible components, font normal/bold)
   - Weather panel with Yahoo!, Accuweather, OpenWeatherMap and yr.no weather providers

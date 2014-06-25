@@ -9,7 +9,6 @@ Da Chronus viele verschiedene Informationen in einem Widget zusammenfasst und da
 2. Manche Geräte müssen nach der Installation neu gestartet werden, damit Chronus in der Widget-Auswahl erscheint
 3. Details zu den verwendeten Berechtigungen sind (in Englisch) hier verfügbar: http://goo.gl/EbMLmm
 4. Die Verwendung mancher Module des Xposed-Frameworks kann zu Problemen führen!
-5. WidgetLocker wird nicht unterstützt
 
 <b>Funktionen (Pro-Version):</b>
   - Zusätzliche Widgets (Wettervorhersage, Kalender, Wetter)
@@ -21,11 +20,12 @@ Da Chronus viele verschiedene Informationen in einem Widget zusammenfasst und da
   - Feedly als Nachrichtenanbieter
   - Facebook als Nachrichtenanbieter
   - 'Daydream'-Bildschirmschoner
-  - Neue Funktionen erscheinen alle 3-4 Wochen...
+  - Wetterbenachrichtigungen in der Statusleiste
+  - DashClock-Erweiterungen in den Flex- und 'Dash'-Widgets
 
 <b>Funktionen (Alle Versionen):</b>
 Die Standard-Version beinhaltet alle Funktionen des CyanogenMod cLock-Widgets mit Unterstützung für ältere Android-Versionen
-  - Verschiedene Widgets: Flex, Flex (Analog), Uhr+, Wetter und Nachrichten
+  - Verschiedene Widgets: Flex, Flex (Analog), Uhr+, Uhr+ (Dash), Wetter, Nachrichten und 'Dash'
   - Kann als Startbildschirm- (Android 4.1+) oder Bildschirmsperren-Widget (Android 4.2+) hinzugefügt werden
   - Anpassbares Aussehen und wählbare Klick-Funktion der Uhr
   - Wetter-Anzeige mit Daten von Yahoo! Wetter, Accuweather, OpenWeatherMap oder yr.no
@@ -39,6 +39,9 @@ Die Standard-Version beinhaltet alle Funktionen des CyanogenMod cLock-Widgets mi
   - Auswählbarer Widget-Hintergrund
   - Anstehende Kalendertermine mit auswählbaren Farben und Schriftstärken versehen
   - Konfiguration des Widgets beim Hinzufügen oder über die Chronus-App in der Anwendungsübersicht
+  - Sicherung & Wiederherstellung von Widget-Einstellungen
+  - bis zu 2 DashClock-Erweiterungen in den Flex- und 'Dash'-Widgets
+  - eingebaute DashClock-Erweiterungen: Verpasste Anrufe, SMS, Gmail und Kalender
 
 <b>Danksagungen:</b>
 Auch wenn Danny Baumann und ich maßgebliche Teile von Chronus entwickelt haben, geht mein Dank auch an die vielen Übersetzer sowie an andere Mitwirkende wie Nicolai Ehemann, Matt Booth und Jorge Ruesga für die von ihnen beibetragenen Übersetzungen und Funktionen.

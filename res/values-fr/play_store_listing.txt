@@ -1,33 +1,35 @@
 Bienvenue dans Chronus, un élégant widget horloge, calendrier, météo et flux RSS pour votre écran d'accueil et de verrouillage.
 
-Ce widget est proposé par les mêmes développeurs et avec les mêmes fonctionnalités que son grand frère de CyanogenMod. Cette version indépendante et autonome du widget reprend son nom d'origine Chronus et apporte la même apparence réussie à une communauté Android plus large.
+Ce widget est proposé par les mêmes développeurs et avec les mêmes fonctionnalités que son ancien frère intégré à CyanogenMod. Cette version indépendante et autonome du widget reprend son nom d'origine Chronus et apporte la même apparence réussie mais également de nombreuses nouvelles fonctionnalités et améliorations à une communauté Android plus large.
 
-Chronus est un widget flexible d'«information», il est hautement optimisé au niveau CPU et données d'utilisation et peut donc remplacer plusieurs autres widgets d'informations. Les différents widgets Chronus utilisés sur un même appareil utilisent le même service d'arrière plan et les mises à jour sont regroupées. Cela rend le système moins gourmand en batterie tout en offrant à l'utilisateur une information riche. Vous pouvez choisir d'utiliser une ou l'ensemble des fonctionnalités, celles qui ne sont pas utilisées sont complètement désactivées et ne consomment donc pas de CPU, de données ou de batterie.
+Chronus est un widget flexible d'«information», il est hautement optimisé au niveau CPU et données d'utilisation et peut donc remplacer plusieurs autres widgets d'informations. Les différents widgets Chronus utilisés sur un même appareil utilisent le même service en arrière plan et les mises à jour sont ainsi regroupées. Cela rend le système moins gourmand en batterie tout en offrant à l'utilisateur une information riche. Vous pouvez choisir d'utiliser une ou l'ensemble des fonctionnalités, celles qui ne sont pas utilisées sont complètement désactivées et ne consomment donc pas de CPU, de données ou de batterie.
 
 <b>Notes :</b>
 1) Le widget de l'écran de verrouillage est supporté seulement par Android 4.2 et supérieur. C'est une limitation d'Android, pas de Chronus.
 2) Sur certains appareils il est nécessaire de redémarrer après l'installation pour que le widget apparaisse dans la liste des widgets.
 3) Le détail des permissions peut être consulté à l'adresse http://goo.gl/EbMLmm.
-4) SI VOUS UTILISEZ LE FRAMEWORK XPOSED POUR CONTOURNER LES API DES WIDGETS ANDROID CELA NE FONCTIONNERA PAS!
+4) Si vous utilisez le framework XPOSED pour contourner les API des widgets Android, cela ne fonctionnera pas !
 
-<b>Fonctionnalités (Version Pro):</b>
-  - Widgets supplémentaires (Prévisions, Calendrier, Météo)
+<b>Fonctionnalités (Version Pro, disponible en achat dans l'application) : - Vidéo @ http://goo.gl/S4Ue1q </b>
+  - Widgets supplémentaires (Prévisions, Calendrier, Horloge+ (Prévision))
   - Actions personnalisées lors d'un appui sur l'heure, la météo et le calendrier afin de lancer des applications ou des activités personnalisées
   - Modifier l'alignement de l'horloge et de la météo (Centré, Gauche ou Droite)
   - Choisir le style d'horloge analogique (Classique ou standard)
   - Style de vue du Calendrier
   - Couleurs des calendriers
+  - Couleur de l'arrière plan des widgets
   - Agrégateur de flux Feedly
   - Agrégateur de flux Facebook
   - Écran de veille interactif
-  - et d'autres fonctionnalités qui arriveront dans 3-4 semaines...
+  - Notifications météo dans la barre de notification
+  - Ajout d'extension DashClock dans les widgets Flex et 'Dash'
 
-<b>Fonctionnalités (Toute version):</b>
+<b>Fonctionnalités (Toute version) :</b>
 La version standard est équivalente au widget cLock de CyanogenMod avec en plus le support pour les anciennes versions d'Android.
-  - Toutes les fonctions des widgets Flex, Flex (analogique), Clock+ et Horloge+
+  - Toutes les fonctionnalités des widgets Flex, Flex (analogique), Horloge+, Horloge+ (Dash), Dash et Météo
   - Support de l'ajout du widget à l'écran d'accueil (Android 4.1 et supérieur) ou à l'écran de verrouillage (Android 4.2 et supérieur)
   - Personnalisation de l'apparence de l'heure (éléments visibles, police normale/grasse)
-  - Choix du fournisseur de prévision météo : Yahoo!, Accuweather, OpenWeatherMap ou yr.no
+  - Fournisseur de prévision météo : Yahoo!, Accuweather, OpenWeatherMap ou yr.no
   - Support du widget météo minimisé (pour l'écran de verrouillage)
   - Panneau et lecteur de flux RSS
   - Lecteur d'article intégré
@@ -35,9 +37,11 @@ La version standard est équivalente au widget cLock de CyanogenMod avec en plus
   - Un appui sur un événement du calendrier, l'ouvre directement dans l'application calendrier
   - Un appui sur l'icône du calendrier, l'ouvre à la date d'aujourd’hui
   - Mise en surbrillance des événements à venir avec des couleurs et mise en forme de la police personnalisable
-  - Définir l'arrière plan des widgets
   - Choix de la couleur des polices de tous les textes dans tous les panneaux
   - Configurer le widget à l'ajout de Chronus ou depuis la liste des applications
+  - Sauvegarde et restauration des paramètres de widgets
+  - Ajout de seulement deux extensions DashClock dans les widgets Flex et 'Dash'
+  - Extensions intégrées : Gmail, appels manqués, messages texte et calendrier
 
-<b>Crédits:</b>
-Une partie importante de Chronus a été écrit par Danny Baumann et moi-même ; mais le mérite revient aussi aux nombreux traducteurs, et également à d'autres contributeurs comme Nicolai Ehemann et Matt Booth pour les fonctionnalités qu'ils ont ajoutées.
+<b>Crédits :</b>
+Une partie importante de Chronus a été écrit par Danny Baumann et moi-même ; mais le mérite revient aussi aux nombreux traducteurs, et également à d'autres contributeurs comme Nicolai Ehemann, Matt Booth et Jorge Ruesga pour les langues et les fonctionnalités qu'ils ont ajoutées.

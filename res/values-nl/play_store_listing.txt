@@ -1,39 +1,47 @@
-Welkom bij Chronus, een elegante klok-, weer- en agendawidget voor uw start- en vergrendelingsscherm.
+Welkom bij Chronus, een elegante klok-, weer-, nieuws- en agendawidget voor uw start- en vergrendelingsscherm - nu met ondersteuning voor DashClock-extensies!
 
-Met dezelfde functies als cLock van CyanogenMod en gebracht door dezelfde ontwikkelaar, krijgt deze op zichzelf staande widget,
-zelfstandig uitgebracht, zijn oorspronkelijke naam terug, Chronus, en brengt dezelfde functies mee naar de bredere
-Android-gemeenschap.
+Met dezelfde functies als cLock van CyanogenMod en gebracht door dezelfde ontwikkelaars krijgt deze op zichzelf staande widget, zelfstandig uitgebracht, zijn oorspronkelijke naam terug - Chronus - en brengt het dezelfde elegante uiterlijk, aangepast met vele nieuwe functies en verbeteringen, naar de bredere Android-gemeenschap.
 
-<b>Neem a.u.b. het volgende in acht:</b>
+Als een flexibele informatiewidget is Chronus maximaal geoptimaliseerd wat betreft CPU-gebruik en gegevensgebruik, met de intentie om enkele andere informatiewidgets te vervangen. Bij meerdere Chronus-widgets op een apparaat worden dezelfde back-end-services en -updates samengevoegd. Zo wordt er minder van de accu gevraagd en kan u toch van de verrijkte informatie gebruikmaken. Wanneer u een functie uitschakelt, wordt deze volledig uitgeschakeld, zodat er geen gebruik meer wordt gemaakt van de CPU, uw gegevensverbinding of de accu.
+
+<b>Let op:</b>
 1) Widgets op het vergrendelingsscherm worden pas ondersteund op Android 4.2 en hoger. Dit ligt aan Android, niet aan Chronus.
-2) WidgetLocker wordt niet ondersteund.
-3) Bij enkele apparaten is herstarten noodzakelijk, voordat de widget door u kan worden gekozen.
+2) Bij enkele apparaten is herstarten noodzakelijk, voordat de widget zichtbaar is in de widgetkiezer.
+3) Details over de gebruikte machtigingen kunt u vinden op http://goo.gl/EbMLmm
+4) Het gebruik van het Xposed-framework om de Android-widget-API's te omzeilen kan dit onjuist laten functioneren.
 
-<b>Functies (Pro-versie):</b>
-  - Aanraakacties wijzigen voor de klok, het weer en de agenda om apps of activiteiten te openen
-  - Achtergrondkleur instellen
-  - Indeling wijzigen van het digitale klokpaneel (midden, links of rechts)
-  - Indeling wijzigen van het weerpaneel (midden, links of rechts)
-  - en meer functies, die elke 3-4 weken komen...
+<b>Functies (Pro-versie, beschikbaar via een in-app aankoop): - Video @ http://goo.gl/S4Ue1q</b>
+  - Meer widgets (Weersvoorspelling, Agenda, Klok+ (weersvoorspelling))
+  - Aangepaste aanraakacties voor Klok, Weer en Agenda om apps of specifieke app-schermen (activities) te starten
+  - Klok- en weerpaneelindeling wijzigen (gecentreerd, links of rechts)
+  - Analoge klok (standaard of klassiek)
+  - Agenda in maandelijkse weergave
+  - Agendakleuren
+  - Widgetachtergronden instellen
+  - Feedly-nieuwsaanbieder
+  - Facebook Nieuws-provider
+  - Daydream-screensaver
+  - Weermeldingen in de statusbalk
+  - DashClock-extensies toevoegen in de Flex- en Dash-widgets
 
 <b>Functies (alle versies):</b>
-De standaardversie biedt dezelfde functies als cLock van CyanogenMod 10.2 met ondersteuning voor oudere versies van Android.. 
-  - Ondersteuning voor Android 4.1 en hoger
-  - Ondersteuning voor plaatsing op het startscherm (Android 4.1 en hoger), het vergrendelingsscherm (Android 4.2 en hoger) of allebei
-  - Keuze uit een analoge en digitale klok en een aanpasbaar uiterlijk
-  - Weergave van alarmen
-  - Vetgedrukte/normale lettertype in de digitale klok, datum en alarm
-  - Weerpaneel met Yahoo Weer
-  - Gekleurde of zwart-witte weerpictogrammen
-  - Geminimaliseerde weerwidget (vooral handig op het vergrendelingsscherm)
+De standaardversie biedt dezelfde functies als cLock van CyanogenMod met ondersteuning voor oudere versies van Android.
+  - Volledig functionerende Flex-, Flex (analoog)-, Klok+-, Klok+ (Dash)- en Dash- en Weerwidgets
+  - Ondersteuning voor plaatsing op het startscherm (Android 4.1+) of het vergrendelingsscherm (Android 4.2+)
+  - Aangepaste indeling van de Klok (weergegeven onderdelen, lettertype normaal/vetgedrukt)
+  - Weerpaneel met Yahoo!, Accuweather, OpenWeatherMap en yr.no-weeraanbieders
+  - Geminimaliseerde weerwidget (voor het vergrendelingsscherm)
+  - Nieuwsfeedpaneel met voorgeselecteerde RSS-bronnen
+  - Interne nieuwslezer
   - Agendapaneel met een scrollbare afsprakenlijst
   - Openen van een afspraak door die aan te raken
   - Openen van agenda op vandaag door het agendapictogram aan te raken
+  - Aankomende afspraken benadrukken met aangepaste kleuren en vetgedrukt weergeven
   - Aanpasbare lettertypekleur voor alle teksten
   - Widget configureren bij toevoegen of in de Chronus-app
-  - Aankomende afspraken benadrukken met aangepaste kleuren en vetgedrukt weergeven
+  - Back-up en herstel voor widgetinstellingen
+  - Twee DashClock-extensies toevoegen in de Flex- en Dash-widgets
+  - Ingebouwde Gmail-, Gemiste oproepen-, Agenda- en Tekstberichten-extensies
 
 <b>Dankbetuigingen:</b>
-Hoewel ik grote delen van deze widget heb geschreven, wil ik ook Danny Baumann bedanken voor de weerupdateservice en de code
-helderder te maken, de vertalers van CyanogenMod voor de bijdragen in hun taal en anderen van de CyanogenMod-gemeenschap zoals Nicolai
-Ehemann en Matt Booth voor de foutoplossingen en extra functies waarvoor zij verantwoordelijk zijn.
+Hoewel Danny Baumann en ik het grootste gedeelte van deze widget heb geschreven, wil ik ook de vele vertalers anderen, zoals Nicolai Ehemann, Matt Booth en Jorge Ruesga voor de talen en functies waaraan zij hebben bijgedragen.
